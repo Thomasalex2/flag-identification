@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap");
+
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+.title {
+  padding: 2rem 2rem;
+  padding-top: 3rem;
+  background-color: grey;
+  color: white;
+  margin: -20px;
+  margin-bottom: 2rem;
+  border-radius: 1rem;
+}
+
+.input-box {
+  padding: 0.5rem 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  outline: none;
+}
+
+.no-bullets {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.inline {
+  display: inline;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 1rem;
+  margin: auto;
+}
+
+.inline:active {
+  background-color: rgb(238, 235, 235);
+}
+
+.answer {
+  font-size: larger;
+  font-weight: bold;
+}
