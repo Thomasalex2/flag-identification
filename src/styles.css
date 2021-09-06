@@ -33,10 +33,11 @@
   cursor: pointer;
   text-align: center;
   border-radius: 1rem;
-  margin: auto;
+  margin: 0.5rem 0.5rem;
 }
 
-.inline:active {
+.inline:hover {
+  transition: 0.75s;
   background-color: rgb(238, 235, 235);
 }
 
