@@ -70,7 +70,7 @@ export default function App() {
       </ul>
       <footer>
         <p> Created by Thomas Alex </p>
-        <p> As a part of mark neoGCamp </p>
+        <p> As a part of markEight neoGCamp </p>
       </footer>
     </div>
   );
